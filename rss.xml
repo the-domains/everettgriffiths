@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Masterminding in the Genius Room]]></title>
         <description><![CDATA[Masterminding in the Genius Room]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/everettgriffiths/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 17:39:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Aug 2016 17:41:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/everettgriffiths/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/339a55c5-4a01-40d9-bf96-1904b692a795.jpg">]]></description>
+            <link>https://thegrid.ai/everettgriffiths/like-a-forgotten-tree/index.html</link>
+            <guid isPermaLink="false">25d6967c-de30-44ea-9c7f-f69f9a219371</guid>
+            <pubDate>Fri, 05 Aug 2016 17:40:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2596c662-d157-4b6d-9603-7d2683aa6d19.jpg">]]></description>
-            <link>undefinedlurking-in-the-night/index.html</link>
+            <link>https://thegrid.ai/everettgriffiths/lurking-in-the-night/index.html</link>
             <guid isPermaLink="false">d72d0380-bf46-44e8-9d0f-8d648458952d</guid>
             <pubDate>Fri, 05 Aug 2016 17:38:55 GMT</pubDate>
         </item>
