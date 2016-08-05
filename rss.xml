@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Masterminding in the Genius Room]]></title>
+        <description><![CDATA[Masterminding in the Genius Room]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Aug 2016 17:39:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2596c662-d157-4b6d-9603-7d2683aa6d19.jpg">]]></description>
+            <link>undefinedlurking-in-the-night/index.html</link>
+            <guid isPermaLink="false">d72d0380-bf46-44e8-9d0f-8d648458952d</guid>
+            <pubDate>Fri, 05 Aug 2016 17:38:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
