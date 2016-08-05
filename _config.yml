@@ -1,0 +1,28 @@
+name: Everett Griffiths
+favicon: null
+layout_spectrum: 0.1820854356046766
+typography_spectrum: 0.9955693103838712
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9913418868090957
+  lightness: 0.00801684451289475
+  saturation: 0.7086226281244308
+  rhythmicContrast: 0.3877067877911031
+purpose: []
