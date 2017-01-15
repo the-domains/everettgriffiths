@@ -1,20 +1,4 @@
-name: Everett Griffiths
-favicon: null
-layout_spectrum: 0.1820854356046766
 typography_spectrum: 0.9955693103838712
-title: Masterminding in the Genius Room
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -26,4 +10,22 @@ color:
   lightness: 0.00801684451289475
   saturation: 0.7086226281244308
   rhythmicContrast: 0.3877067877911031
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1820854356046766
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Everett Griffiths
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Masterminding in the Genius Room
+content: []
 purpose: []
