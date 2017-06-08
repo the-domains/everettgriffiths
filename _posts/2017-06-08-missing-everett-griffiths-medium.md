@@ -44,13 +44,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://medium.com/@fireproofsocks/missing-899fb0cd3b0f'
 title: Missing - Everett Griffiths - Medium
-datePublished: '2017-06-08T05:31:48.995Z'
-dateModified: '2017-06-08T05:31:41.632Z'
-datePublishedOriginal: '2017-06-08T05:31:48.995Z'
+datePublished: '2017-06-08T05:33:50.034Z'
+dateModified: '2017-06-08T05:33:49.508Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-06-08-missing-everett-griffiths-medium.md
+starred: false
+datePublishedOriginal: '2017-06-08T05:31:48.995Z'
 _type: Article
 _context: 'http://schema.org'
 
